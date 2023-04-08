@@ -11,6 +11,7 @@ Este projeto foi contruído utilizado React, WebGi, Three.js e GSAP. Nele foi fe
 
 ## Pré-requisitos
 [Git](https://git-scm.com/)
+
 [Node.js](https://nodejs.org/en)
 
 ### Iniciando o Projeto
@@ -33,13 +34,19 @@ $ npm run dev
 
 ## Tecnologias
 [GSAP](https://greensock.com/gsap/)
+
 [Node.js](https://nodejs.org/en)
+
 [React](https://react.dev/)
+
 [Three.js](https://threejs.org/)
+
 [WebGi](https://webgi.xyz/docs/)
 
 ## Autor
 
 ![Autor](https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/32664448?v=4&h=150&w=150&fit=cover&mask=circle&maxage=7d)
+
 Feito por Lucas Castello Branco Sanches
+
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas_Castello_Branco_Sanches-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/lcbsanches/) [![Gmail Badge](https://img.shields.io/badge/-lcbsanches@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:lcbsanches@gmail.com)
