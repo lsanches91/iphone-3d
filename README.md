@@ -7,7 +7,7 @@
 * [Tecnologias](#Tecnologias)
 
 ## Sobre
-Este projeto foi contruído utilizado React, WebGi, Three.js e GSAP. Nele foi feito uma página de apresentação de um novo modelo do iPhone usando um objeto 3D, o objeto se movimenta de acordo com a navegação pela página, ao final da página é possível movimentar o obejto livremente.
+Este projeto foi construído utilizado React, WebGi, Three.js e GSAP. Nele foi feito uma página de apresentação de um novo modelo do iPhone usando um objeto 3D, o objeto se movimenta de acordo com a navegação pela página, ao final da página é possível movimentar o obejto livremente.
 
 ## Pré-requisitos
 [Git](https://git-scm.com/)
